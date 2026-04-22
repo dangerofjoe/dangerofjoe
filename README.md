@@ -1,32 +1,86 @@
-<!-- Верхний блок с аниме-артом и сакурой -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,27&height=200&section=header&text=🌸%20Георгий%20🌸&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Студент%20%7C%20Анимешник%20%7C%20Кодер&descAlignY=60&descAlign=62" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/120?text=Avatar" alt="Аватар" width="120" style="border-radius: 50%;">
+</div>
 
-<!-- Аниме-девушка с ноутбуком -->
+<h1 align="center">Дмитриев Георгий</h1>
+<p align="center"><strong>Студент / Разработчик</strong><br>
+📍 Великий Новгород, РФ · без опыта работы</p>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" alt="Anime girl coding"/>
-  <img src="https://media1.tenor.com/m/JFhb5yM9uF0AAAAC/anime-girl-coding.gif" width="250" alt="Anime coding"/>
+  <a href="https://github.com/dangerofjoe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:gosha.top2010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dangerofjoe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
 
-### 🌸 俺のプロフィール (Мой профиль)
+## О себе
 
-<div align="center">
-  <img align="right" src="https://i.pinimg.com/originals/9a/62/c5/9a62c5b55f071e9bca5ff155bc8a62a4.gif" width="180" alt="Chibi anime"/>
-</div>
+Привет! Я Георгий — начинающий разработчик, увлечённый программированием и современными технологиями. Участвую в олимпиадах по информатике, призёр муниципальных этапов. Ищу стажировку, чтобы применять свои знания на практике и расти профессионально.
 
-```yaml
-名前: ゲオルギー (Георгий)
-ステータス: 学生 (Студент)
-住んでいるところ: Россия 🇷🇺
+Кроме кода, интересуюсь стратегическими играми, читаю научно-популярную литературу, веду здоровый образ жизни. Люблю решать нестандартные задачи и постоянно учусь новому.
 
-好きなこと:
-  - 🍥 Аниме (смотрю всё подряд)
-  - 💻 Программирование (React, Python)
+**Ключевые качества:**  
+`Командная работа` `Креативность` `Тайм-менеджмент` `Быстрая обучаемость`
 
-勉強中:
-  - JavaScript + Node.js
-  - Python
-  - C + CSS
+---
+
+## Технические навыки
+
+| Язык / технология | Уровень |
+|-------------------|---------|
+| Python            | ██████░░░░ 60% |
+| C++               | ███░░░░░░░ 30% |
+| JavaScript        | ██░░░░░░░░ 20% |
+| C#                | ███░░░░░░░ 30% |
+| HTML / CSS        | ████░░░░░░ 40% |
+
+---
+
+## Образование
+
+- **МАОУ Гимназия № 4** – физико-математический класс *(2017–2028)*  
+  Углублённое изучение математики, информатики, физики. Участие в олимпиадах.
+
+- **Яндекс Лицей** – курс «Python, алгоритмы» *(2025–2026)*  
+  Основы Python, решение алгоритмических задач, работа с данными.
+
+- **Онлайн-курс «Веб-разработка для начинающих»** (Stepik, 2024)  
+  HTML, CSS, основы JavaScript, адаптивная вёрстка.
+
+---
+
+## Достижения
+
+- Призёр муниципальной олимпиады по информатике (2024)
+- Сертификат Яндекс Лицея — «Python для начинающих»
+- Участник всероссийской олимпиады «Высокие технологии» (финал)
+- Грамота за успехи в изучении программирования
+
+---
+
+## Языки
+
+- **Русский** – C2 (родной)
+- **Английский** – B1 (Intermediate)
+
+---
+
+## Проекты
+
+- **[Сайт-портфолио](https://github.com/dangerofjoe/my-portfolio)** – адаптивный сайт-резюме с якорной навигацией, модальной формой связи, светлым дизайном.  
+  `HTML/CSS/JS`
+
+---
+
+## Контакты
+
+- **GitHub:** [github.com/dangerofjoe](https://github.com/dangerofjoe)
+- **Email:** [gosha.top2010@gmail.com](mailto:gosha.top2010@gmail.com)
+- **Telegram:** [@dangerofjoe](https://t.me/dangerofjoe)
+
+---
+
+<p align="center">
+  <i>“Стремлюсь создавать эстетичные и быстрые интерфейсы, вдохновляя пользователей на продуктивность.”</i>
+</p>
