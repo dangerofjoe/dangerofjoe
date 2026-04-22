@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dangerofjoe/dangerofjoe/main/avatar.jpg" alt="Аватар" width="120" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/dangerofjoe/dangerofjoe/main/avatar.jpg" alt="Аватар" width="200" style="border-radius: 50%;">
 </div>
 
 <h1 align="center">Дмитриев Георгий</h1>
